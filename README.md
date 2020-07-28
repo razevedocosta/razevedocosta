@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi everyone! 👋
 
-My name is Rodrigo Azevedo, from Brazil (🇧🇷). I have been working as a developer since 2012 and since 2015 I am a Java developer with knowledge in frontend, backend and web applications. I am passionate about technology and its benefits, solutions and possibilities. I've made many code errors but I always try to learn and improve a little bit at a time. 😄
+My name is Rodrigo Azevedo, from Brazil (🇧🇷). Currently, I work as a Java developer at UFAM, I have knowledge in front-end, back-end and web applications. In addition, I am an undergraduate Professor at Estácio. I am passionate about technology and its benefits, solutions and possibilities. I made a lot of code mistakes, but I always try to learn and improve a little bit at a time. 😄
 
-In my free time, I like to rollerblade, take care of the garden (🌱) and play with my kids, watch movies (🎞️), read books (📚), make plans (💬) and sometimes nothing! (🤔)
+In my free time, I like to rollerblade, take care of the garden (🌱), to play with my kids (👧‍👦), watch movies (🎞️), read books (📚), make plans (🤔) and sometimes nothing! (😅)
 
 Would you like to meet me?
 
