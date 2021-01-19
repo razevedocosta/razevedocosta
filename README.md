@@ -10,6 +10,7 @@ Would you like to meet me?
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/razevedocosta)](https://twitter.com/razevedocosta)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-darkblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/razevedocosta)](https://www.facebook.com/razevedocosta)
 [![Blog Badge](https://img.shields.io/badge/Blog-depoisdomeio-black)](https://depoisdomeio.com/)
+[![Donate](https://img.shields.io/badge/$-formuladastiaras-ff69b4.svg?style=flat)](http://formuladastiaras.com.br/)
 
 <!--
 **razevedocosta/razevedocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
