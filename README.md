@@ -4,7 +4,7 @@ Me chamo Rodrigo Azevedo e atualmente sou Programador Sênior na Philips. Atuo n
 
 Apesar do nível de habilidades "sênior", considero-me um eterno júnior em busca de aprendizado e vontade de ajudar onde quer que esteja.
 
-Tenho conhecimentos em algumas linguagens e frameworks, tanto a nível de trabalho (PHP, Joomla, Wordpress, Java, Grails, HTML/CSS/Javascript, Bootstrap, Banco de Dados), quanto a nível de estudo: (Javascript, ReactJS, React Native, Python, Power BI, Docker, Jenkins).
+Tenho conhecimentos em algumas linguagens e frameworks, tanto a nível de trabalho (PHP, Joomla, Wordpress, Java, Grails, HTML/CSS/Javascript, Bootstrap, Banco de dados), quanto a nível de estudo: (Javascript, ReactJS, React Native, Python, Power BI, Docker, Jenkins).
 
 Busco aprimorar meus conhecimentos também na área de marketing digital, utilizando ferramentas para mídias sociais, plataformas de e-commerce, criação de campanhas e conteúdo.
 
