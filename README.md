@@ -1,10 +1,14 @@
-### Hi everyone! 👋
+### Olá! 👋
 
-My name is Rodrigo Azevedo, from Brazil (🇧🇷). Currently, I work as a Java developer at UFAM, I have knowledge in front-end, back-end and web applications. In addition, I am an undergraduate Professor at Estácio. I am passionate about technology and its benefits, solutions and possibilities. I made a lot of code mistakes, but I always try to learn and improve a little bit at a time. 😄
+Me chamo Rodrigo Azevedo e atualmente sou Programador Sênior na Philips. Atuo na manutenção e desenvolvimento de projetos relacionados à area da saúde e bem-estar. 
 
-In my free time, I like to rollerblade, take care of the garden (🌱), to play with my kids (👧‍👦), watch movies (🎞️), read books (📚), make plans (🤔) and sometimes nothing! (😅)
+Apesar do nível de habilidades "sênior", considero-me um eterno júnior em busca de aprendizado e vontade de ajudar onde quer que esteja.
 
-Would you like to meet me?
+Tenho conhecimentos em algumas linguagens e frameworks, tanto a nível de trabalho (PHP, Joomla, Wordpress, Java, Grails, HTML/CSS/Javascript, Bootstrap, Banco de Dados), quanto a nível de estudo: (Javascript, ReactJS, React Native, Python, Power BI, Docker, Jenkins).
+
+Busco aprimorar meus conhecimentos também na área de marketing digital, utilizando ferramentas para mídias sociais, plataformas de e-commerce, criação de campanhas e conteúdo.
+
+Outras redes sociais que compartilho conteúdo são:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razevedocosta14)](https://www.linkedin.com/in/rodrigoazevedo14/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/razevedocosta)](https://twitter.com/razevedocosta)
