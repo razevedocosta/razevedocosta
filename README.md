@@ -1,12 +1,14 @@
 ### Olá! 👋
 
-Me chamo Rodrigo Azevedo e atualmente sou Programador Sênior na Philips. Atuo na manutenção e desenvolvimento de projetos relacionados à area da saúde e bem-estar. 
+Me chamo Rodrigo Azevedo e atualmente sou Instrutor de Programação na Ultima.School atuando nas turmas de QA, Java, Python e Programação Web. Também sou Professor de Informática na Faculdade Senac/SC.
 
-Apesar do nível de habilidades "sênior", considero-me um eterno júnior em busca de aprendizado e vontade de ajudar onde quer que esteja.
-
-Tenho conhecimentos em algumas linguagens e frameworks, tanto a nível de trabalho (PHP, Joomla, Wordpress, Java, Grails, HTML/CSS/Javascript, Bootstrap, Banco de dados), quanto a nível de estudo: (Javascript, ReactJS, React Native, Python, Power BI, Docker, Jenkins).
-
-Busco aprimorar meus conhecimentos também na área de marketing digital, utilizando ferramentas para mídias sociais, plataformas de e-commerce, criação de campanhas e conteúdo.
+Ao longo de 15 anos na área, obtive experiências em diferentes linguagens, metodologias e ambientes de programação: 
+- Java (Grails/Maven), Spring Boot, JPA, HIbernate, API Rest 
+- PHP (Wordpress, Joomla)
+- HTML5, Javascript, CSS, Git, Bootstrap, NodeJS
+- Banco de dados (MySQL, Postgres, Oracle, MongoDB)
+- Excel, Python, API Google Charts, Power BI para análise de dados
+- Docker, Jenkins
 
 Outras redes sociais que compartilho conteúdo são:
 
