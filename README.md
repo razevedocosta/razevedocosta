@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Me chamo Rodrigo Azevedo e atualmente sou Instrutor de Programação na Ultima.School atuando nas turmas de QA, Java, Python e Programação Web. Também sou Professor de Informática na Faculdade Senac/SC.
+Me chamo Rodrigo Azevedo e atualmente sou Professor de Informática na Faculdade Senac/SC para as turmas de Graduação em Análise de Sistemas. Também atuo como Consultor de TI na FIESC trabalhando com projetos de desenvolvimento e melhoria contínua.
 
 Ao longo de 15 anos na área, obtive experiências em diferentes linguagens, metodologias e ambientes de programação: 
 - Java (Grails/Maven), Spring Boot, JPA, HIbernate, API Rest 
