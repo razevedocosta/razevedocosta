@@ -3,12 +3,12 @@
 Me chamo Rodrigo Azevedo e atualmente sou Professor de Informática na Faculdade Senac/SC para as turmas de Graduação em Análise de Sistemas. Também atuo como Consultor de TI na FIESC trabalhando com projetos de desenvolvimento e melhoria contínua.
 
 Ao longo de 15 anos na área, obtive experiências em diferentes linguagens, metodologias e ambientes de programação: 
-- Java (Grails/Maven), Spring Boot, JPA, HIbernate, API Rest 
+- Java (Grails/Maven), Spring Boot, JPA, HIbernate, API Rest
+- React (Next)
 - PHP (Wordpress, Joomla)
 - HTML5, Javascript, CSS, Git, Bootstrap, NodeJS
 - Banco de dados (MySQL, Postgres, Oracle, MongoDB)
-- Excel, Python, API Google Charts, Power BI para análise de dados
-- Docker, Jenkins
+- Excel, Python, API Google Charts, Power BI e Looker Studio para análise de dados
 
 Outras redes sociais que compartilho conteúdo são:
 
